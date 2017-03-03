@@ -1,5 +1,5 @@
 =================
-Salt Vagrant Demo
+Salt Vagrant Demo created by UtahDave
 =================
 
 A Salt Demo using Vagrant.
